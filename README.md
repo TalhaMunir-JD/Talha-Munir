@@ -1,14 +1,11 @@
 # Talha-Munir
-#Talha Munir
+# Read me file
+# prerequisites for the project to run
 
-Read me file:
-
-Prerequisites for the project:
-
-Any ide suppoting java
+Any ide suppoting java like eclipse
 Java8+
 
-Things to be done for starting the game:
+# Things to be done for starting the game:
 
 At first make a project castlevenia and then make three packages First one Castlevenia and add the following classes into it:
 
@@ -57,6 +54,7 @@ Third package objects and add following classes into it:
 •	Point.java
 
 •	Skull.java
+# How to add images:
 
 Now make a folder in the project the steps to do it are:
 
@@ -69,9 +67,10 @@ and name it res.
 Then right click on the project click on properties >> Java Build Path and then click on libraries then click on class path >> Add Class Folder and then click on res then click Apply and Close.  
 Then copy paste all the images provided in that folder. 
 
-How to play the game:
+# How to play the game:
 
-Playing of the game is simple just use.
+In order to play the game use:
+
 
 Right arrow to move forward.
 
@@ -85,13 +84,13 @@ Esc to exit from the game.
 
 Right arrow to move forward.
 
-The class diagram is attached in the report if it is difficult to read, I have also given the image with all other stuffs of the project.
-
 For the audio paste the audio file as it is not in the res folder just in the folder of your project file.
 
-Link to the video:
+# Link to the demo of video:
 
 https://drive.google.com/file/d/1fDZwlksS3OfDDuXn1lRxxM4CmtQDP9LT/view?usp=sharing
+
+# Link to the original images:
 
 The link to the sheet of player: https://www.spriters-resource.com/game_boy_advance/cvhod/sheet/13974/
 
