@@ -2,7 +2,7 @@
 # Read me file
 # prerequisites for the project to run
 
-Any ide suppoting java like eclipse\
+Any ide supporting java like eclipse
 
 Java8+
 
