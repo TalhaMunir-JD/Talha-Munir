@@ -1,104 +1,95 @@
-#Talha Munir
+## Read me file:
 
-Read me file:
+### Prerequisites for the project:
 
-Prerequisites for the project:
+- Eclipse ide
+- Swing installed
 
-Any ide suppoting java
-Java8+
+## Things to be done for starting the game:
 
-Things to be done for starting the game:
+### At first make a project Castlevenia and then make three packages 
 
-At first make a project castlevenia and then make three packages First one Castlevenia and add the following classes into it:
+First one Castlevenia and add the following java files into it:
 
-•	BufferedImageLoader.java
+-	BufferedImageLoader.java
 
-•	Animation.java
+-	Animation.java
 
-•	Camera.java
+-	Camera.java
 
-•	Game.java
+-	Game.java
 
-•	Handler.java
+-	Handler.java
 
-•	Menu.java
+-	Menu.java
 
-•	MouseInput.java
+-	MouseInput.java
 
-•	Window.java
+-	Window.java
 
-Second one frameWork and add following classes into it:
+### Second one frameWork and add the following classes into it:
 
-•	GameObject.java
+-	GameObject.java
 
-•	KeyInput.java
+-	KeyInput.java
 
-•	ObjectId.java
+-	ObjectId.java
 
-•	SpriteSheet.java
+-	SpriteSheet.java
 
-•	Textures.java
+-	Textures.java
 
-Third package objects and add following classes into it:
+### Third package objects and add the following classes into it:
 
-•	Basket.java
+-	Basket.java
 
-•	Bat.java
+-	Bat.java
 
-•	Brick.java
+-	Brick.java
 
-•	candles.java
+-	candles.java
 
-•	Enemy.java
+-	Enemy.java
 
-•	Player.java
+-	Player.java
 
-•	Point.java
+-	Point.java
 
-•	Skull.java
+-	Skull.java
 
-Now make a folder in the project the steps to do it are:
+### Now make a folder in the project the steps to do it are as:
 
-First right click the project.
+First, right-click on the project.
 
-Click on new >> folder.
+Click on new >> folder and name it res.
 
-and name it res.
+Then right-click on the project click on properties >> Java Build Path and then click on libraries then click on class path >> Add Class Folder and then click on res then click Apply and Close.  
+Then copy and paste all the images provided in that folder. 
 
-Then right click on the project click on properties >> Java Build Path and then click on libraries then click on class path >> Add Class Folder and then click on res then click Apply and Close.  
-Then copy paste all the images provided in that folder. 
+### How to play the game:
+Now that you have executed the game the home screen of the application would be in front of you. 
+Use the below commands to get started with the game
+- Right arrow to move forward.
 
-How to play the game:
+- Left arrow to move backward.
 
-Playing of the game is simple just use.
+- Upper arrow to jump.
 
-Right arrow to move forward.
+- Press the A key to use the special move. 
 
-Left arrow to move backward.
+- Esc to exit from the game.
 
-Upper arrow to jump.
+- Right arrow to move forward.
 
-Press A key to use the special move. 
+Note: The class diagram is attached to the report. I have also given the image with all the other stuff of the project incase if it is difficult to read.
 
-Esc to exit from the game.
+[Player sheet](https://www.spriters-resource.com/game_boy_advance/cvhod/sheet/13974/)
 
-Right arrow to move forward.
+[Enemy sheet](https://www.spriters-resource.com/game_boy_advance/cvhod/sheet/8543/) 
 
-The class diagram is attached in the report if it is difficult to read, I have also given the image with all other stuffs of the project.
+[Bat sheet](https://www.spriters-resource.com/game_boy_advance/cvhod/sheet/8541/)
 
-For the audio paste the audio file as it is not in the res folder just in the folder of your project file.
-
-Link to the video:
-
-https://drive.google.com/file/d/1fDZwlksS3OfDDuXn1lRxxM4CmtQDP9LT/view?usp=sharing
-
-The link to the sheet of player: https://www.spriters-resource.com/game_boy_advance/cvhod/sheet/13974/
-
-The link to the sheet of enemy: https://www.spriters-resource.com/game_boy_advance/cvhod/sheet/8543/
-
-The link to the sheet of Bat: https://www.spriters-resource.com/game_boy_advance/cvhod/sheet/8541/
-
-The link to the sheet of Basket: https://www.spriters-resource.com/game_boy_advance/cvhod/sheet/8546/
-
-The link to the sheet of Skull: https://www.spriters-resource.com/game_boy_advance/cvhod/sheet/14520/
+[Basket sheet](https://www.spriters-resource.com/game_boy_advance/cvhod/sheet/8546/
+)
+[Skull sheet](https://www.spriters-resource.com/game_boy_advance/cvhod/sheet/14520/)
 
